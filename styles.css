@@ -42,16 +42,7 @@ img{
     height: 200px;
     border-radius: 5%;
 }
-@media (max-width: 375px){
-    .container {
-        font-size: 15px;
-        text-align: center;
-        width: 210px;
-        height: 350px;
-        background-color: hsl(0, 0%, 100%);
-        padding: 10px;
-        border-radius: 5%;
-    }
+
       
     }
 }
